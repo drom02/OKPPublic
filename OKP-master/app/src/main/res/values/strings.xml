@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">OKP</string>
+    <string name="title_activity_maps">OKP</string>
+    <string name="title_activity_filter">OKP</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- Strings used for main menu -->
+    <string name="goMap">Mapa</string>
+    <string name="goFilters">Filtry</string>
+
+    <!-- Strings used for checkbox description -->
+    <string name="theater">Divadla</string>
+    <string name="gallery">Muzea</string>
+    <string name="cinema">Kina</string>
+    <string name="concert_hall">Koncertní sály</string>
+    <string name="library">Knihovny</string>
+    <string name="social_hall">Společenské sály</string>
+    <string name="culture_house">Kulturní domy</string>
+    <string name="music_club">Hudební kluby</string>
+    <string name="stadium">Stadiony</string>
+    <string name="exhibition_hall">Výstavní síňě</string>
+    <string name="foreign_cultural_rep">Zahraniční kulturní zastoupení</string>
+    <!-- Strings used for filter-->
+    <string name="save_button">Uložit</string>
+    <string name="map_button">Mapa</string>
+    <!-- Strings used for main menu -->
+    <!-- used for preferences -->
+    <string name="preferences">pref</string>
+    <!-- Strings used for Text info -->
+    <string name="name_plate">Název:</string>
+    <string name="www_plate">Web adresa:</string>
+    <string name="accessibility_plate">Bezbariérová přístupnost:</string>
+    <string name="district_plate">Čtvrť:</string>
+    <string name="address_plate">Adresa:</string>
+    <string name="ico_plate">IČO:</string>
+    <string name="psc_plate">PSČ:</string>
+    <string name="phone_plate">Telefonní číslo:</string>
+    <string name="capacity_plate">Kapacita:</string>
+
+
+</resources>
